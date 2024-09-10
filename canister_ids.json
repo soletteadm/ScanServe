@@ -1,5 +1,14 @@
 {
+  "allowlist": {
+    "ic": "zavar-uiaaa-aaaap-ahxva-cai"
+  },
+  "lotto": {
+    "ic": "zhugf-zqaaa-aaaap-ahxvq-cai"
+  },
   "prodtoken": {
     "ic": "24w3x-2iaaa-aaaal-ajzba-cai"
+  },
+  "token": {
+    "ic": "3ulff-riaaa-aaaap-ahx3a-cai"
   }
 }
